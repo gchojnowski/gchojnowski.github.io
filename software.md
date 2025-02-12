@@ -4,7 +4,7 @@ title: Software
 permalink: /software/
 ---
 
-## Identification of protein-protein interactions using AlphaFold
+## Characterization of protein-protein interactions using AlphaFold
 
 <img src="/data/contacts.jpg" style="float:left;width:500px;margin:0px;">
 
