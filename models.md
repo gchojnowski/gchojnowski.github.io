@@ -25,6 +25,7 @@ PDB id: <a href="https://www.rcsb.org/structure/7Y7A">7Y7A</a>
 
  - Sierk, M. L., & Kleywegt, G. J. (2004). Deja vu all over again: finding and analyzing protein structure similarities. Structure, 12(12), 2103-2111. doi:<a href="https://doi.org/10.1016/j.str.2004.09.016">10.1016/j.str.2004.09.016</a>
 
+---
 
 <br/>
 ## A tale of two dehydrogenases
@@ -44,6 +45,8 @@ PDB ids: <a href="https://www.rcsb.org/structure/7Q5Q">7Q5Q</a>, <a href="https:
 
  - Skalidis, Kyrilis, Tüting, Hamdi, ***Chojnowski***, & Kastritis (2022). Cryo-EM and artificial intelligence visualize endogenous protein community members. Structure, 30(4), 575-589. doi:<a href="https://doi.org/10.1016/j.str.2022.01.001">10.1016/j.str.2022.01.001</a>
 
+---
+
 <br/>
 ## ESX-5 Type VII Secretion System
 
@@ -57,6 +60,8 @@ PDB id: <a href="https://www.rcsb.org/structure/7B9S">7B9S</a>
 
 <br/>
  - Beckham \*, Ritter \*, **Chojnowski\***, et al. (2021). Structure of the mycobacterial ESX-5 type VII secretion system pore complex. Science advances, 7(26), eabg9923.doi:<a href="https://doi.org/10.1126/sciadv.abg9923">10.1126/sciadv.abg9923</a>
+
+---
 
 <br/>
 ## High resolutiuon strcuture of purine nucleoside phosphorylase

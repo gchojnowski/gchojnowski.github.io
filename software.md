@@ -17,6 +17,8 @@ I use it a lot for cryo-EM model building. Several fascinating stories will soon
  - Chojnowski [bioRxiv (2025) 01.31.635911](https://doi.org/10.1101/2025.01.31.635911)
  - [https://github.com/gchojnowski/gapTrick](https://github.com/gchojnowski/gapTrick/tree/main)
 
+---
+
 <br/>
 
 ## Sequence information identification and validation in EM and MX
@@ -32,6 +34,7 @@ Sequence assignment is a critical step in macromolecular modelling in EM and MX,
 
  - Chojnowski et al. "findMySequence: a neural-network-based approach for identification of unknown proteins in X-ray crystallography and cryo-EM." [IUCrJ 9.1 (2022): 86-97](https://doi.org/10.1107/S2052252521011088)
 
+---
 
 <br/>
 ## _De novo_ model building in EM and MX
@@ -44,6 +47,7 @@ Before AlphaFold2 came along, ARP/wARP was one of the leading programs for model
 
  - Chojnowski et al. "The use of local structural similarity of distant homologues for crystallographic model building from a molecular-replacement solution." [Acta Cryst D (2020): 248-260](https://doi.org/10.1107/S2059798320000455)
 
+---
 
 <br/>
 ## Fragment based modeling of RNA structures
@@ -60,6 +64,8 @@ On the left is an example of a model of a viral RNA molecule built with [RNA Mas
  - Chojnowski, Waleń, and Bujnicki. "RNA Bricks—a database of RNA 3D motifs and their interactions." [Nucleic acids research 42.D1 (2014): D123-D131](https://doi.org/10.1093/nar/gkt1084)
 
  - Chojnowski et al. "RNA 3D structure modeling by fragment assembly with small-angle X-ray scattering restraints." [Bioinformatics 39.9 (2023): btad527](https://doi.org/10.1093/bioinformatics/btad527)
+
+---
 
 <br/>
 ## Unusual signals in protein crystal diffraction patterns
