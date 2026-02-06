@@ -4,12 +4,30 @@ title: Structure stories
 permalink: /models/
 ---
 
+## EM is not for disorder — or is it?
+
+<img src="/data/p8p5_with_insets.png" style="float:left;width:300px;margin:20px;">
+Peroxisomes are essential eukaryotic organelles, yet they lack their own genetic machinery and import all proteins from the cytosol. Despite their importance and a fairly complete knowledge of the molecular components involved, the mechanism of protein import remains poorly understood.
+
+In a recent project led by Matthias Wilmanns, Lakhan Ekal determined a medium-resolution structure of the key peroxisomal import receptor Pex5 in complex with its cargo Pex8, which likely also plays a role in Pex5 recycling. Notably, nearly half of the Pex5 chain is intrinsically disordered, making it an unfavourable target for detailed cryo-EM analysis.
+
+Nevertheless, by combining AlphaFold3 predictions with [gapTrick](https://github.com/gchojnowski/gapTrick), we were able to show that, in addition to the canonical PTS1 interaction (right), the long disordered N-terminal tail of Pex5 forms a secondary, previously uncharacterised interaction site (left).
+
+This example nicely illustrates that combining cryo-EM with modern structure prediction can extend the interpretability of experimental data beyond what is often assumed to be possible for disordered regions.
+
+<!-- PDB id: <a href="https://www.rcsb.org/structure/7Y7A">7Y7A</a> -->
+
+ - Ekal et al (2025). Structure of Pex8 in complex with peroxisomal receptor Pex5 reveals its essential role in peroxisomal cargo translocation
+ biorXiv doi:<a href="https://doi.org/10.1101/2025.08.30.673231">10.1101/2025.08.30.673231</a>
+
+---
+
+<br/>
+
 ## A needle in a haystack
 
-<p>
 <img src="/data/lhc_small.jpg" style="float:left;width:300px;margin:20px;">
 The model was automatically released by the wwPDB after a standard 1 year embargo and immediately attracted a lot of attention. An <i>in situ</i> cryo-ET reconstruction of a light-harvesting megacomplex from red algae; 37MDa, 1,792 aa chains, 305,000 residues and 2.5M non-H atoms. This huge model was undoubtedly a real challenge to build. It also proved to be a challenge for the wwPDB validation tools; the model remains unvalidated.
-</p>
 
 The good news is that the model can be validated easily using [checkMySequence](https://gitlab.com/gchojnowski/checkmysequence). In about an hour, the program finds several sequence assignment and map-fit issues. One of them is particularly interesting given my background in crystallography.
 
