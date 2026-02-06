@@ -9,9 +9,9 @@ permalink: /models/
 <img src="/data/p8p5_with_insets.png" style="float:left;width:300px;margin:20px;">
 Peroxisomes are essential eukaryotic organelles, yet they lack their own genetic machinery and import all proteins from the cytosol. Despite their importance and a fairly complete knowledge of the molecular components involved, the mechanism of protein import remains poorly understood.
 
-In a recent project led by Matthias Wilmanns, Lakhan Ekal determined a medium-resolution structure of the key peroxisomal import receptor Pex5 in complex with its cargo Pex8, which likely also plays a role in Pex5 recycling. Notably, nearly half of the Pex5 chain is intrinsically disordered, making it an unfavourable target for detailed cryo-EM analysis.
+In a recent project led by Matthias Wilmanns, Lakhan Ekal determined a medium-resolution cryo-EM structure of the key peroxisomal import receptor Pex5 in complex with its cargo Pex8, which is also likely to play a role in Pex5 recycling. Notably, nearly half of the Pex5 chain is intrinsically disordered, making it a very tough target for detailed cryo-EM analysis.
 
-Nevertheless, by combining AlphaFold3 predictions with [gapTrick](https://github.com/gchojnowski/gapTrick), we were able to show that, in addition to the canonical PTS1 interaction (right), the long disordered N-terminal tail of Pex5 forms a secondary, previously uncharacterised interaction site (left).
+Nevertheless, by combining medium-resolution cryo-EM reconstructions with AlphaFold3 predictions using [gapTrick](https://github.com/gchojnowski/gapTrick), we were able to show that, in addition to the canonical PTS1 interaction (right), the long disordered N-terminal tail of Pex5 forms a secondary, previously uncharacterised interaction site (left).
 
 This example nicely illustrates that combining cryo-EM with modern structure prediction can extend the interpretability of experimental data beyond what is often assumed to be possible for disordered regions.
 
